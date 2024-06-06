@@ -14,7 +14,7 @@ from models.globals import (
     MODEL,
     TEST_MINIBATCH_SIZE,
 )
-from nn.utils import confusion_matrix, print_or_output
+from training.utils import confusion_matrix, print_or_output
 
 # array size of old data
 BATCH_ARRAY_SIZE = 200
