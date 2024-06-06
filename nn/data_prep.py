@@ -7,7 +7,6 @@ from xml.sax.handler import DTDHandler
 import numpy as np
 import pandas as pd
 import torch
-from scipy.fft import fft
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
 from torch.utils.data import DataLoader, TensorDataset
