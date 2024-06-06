@@ -41,13 +41,13 @@ from models.GregNet2DModified import GregNet2DModified
 from models.GWaveNet import GWaveNet
 from models.GWaveNet2D import GWaveNet2D
 from models.GWaveNet2DModified import GWaveNet2DModified
-from nn.generate_outputs import (
+from training.generate_outputs import (
     plot_flops,
     save_flop_text,
     save_text_output,
 )
-from nn.train_model import train_model
-from nn.utils import print_or_output
+from training.train_model import train_model
+from training.utils import print_or_output
 
 # initial parameters for running the program
 # colored errors

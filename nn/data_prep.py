@@ -20,7 +20,7 @@ from models.globals import (
     FOLDER,
     OUTPUT_DIR,
 )
-from nn.utils import print_or_output
+from training.utils import print_or_output
 
 
 def into_dataloader(d, out_file, batch, batch_n, minibatch_size, current_folder):
