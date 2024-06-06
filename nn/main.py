@@ -17,7 +17,6 @@ from fvcore.nn import FlopCountAnalysis
 from torch import dropout, nn
 from torchsummary import summary
 
-from data_prep import get_all_time_data
 from models.globals import (
     DATA_DIR,
     DETECTORS,
