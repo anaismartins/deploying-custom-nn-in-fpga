@@ -8,7 +8,7 @@
         - [X] 4.3,
         - [X] 4.4,
         - [X] 4.7,
-        - [ ] 4.8,
+        - [X] 4.8,
         - [ ] 4.9.
 - [ ]  (Ana) Share powerpoint of Fig. 3.13
 - [ ]  (Melissa) Integrate GWaveNet with comic string powerpoint
