@@ -3,10 +3,10 @@
 - [ ]  (Ana) Add notebook
     - I need the notebook to include these Figs:
         - [X] 3.3
-        - [ ] 4.1
-        - [ ] 4.2
-        - [ ] 4.3
-        - [ ] 4.4
+        - [X] 4.1
+        - [X] 4.2
+        - [X] 4.3
+        - [X] 4.4
         - [ ] 4.7
         - [ ] 4.8
         - [ ] 4.9.
