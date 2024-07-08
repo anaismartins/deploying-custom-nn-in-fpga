@@ -12,4 +12,4 @@
         - [X] 4.9.
 - [X]  (Ana) Share powerpoint of Fig. 3.13
 - [X]  (Melissa) Integrate GWaveNet with comic string powerpoint
-- [ ]  (Ana) Some citations in the introduction are missing.
+- [X]  (Ana) Some citations in the introduction are missing.
